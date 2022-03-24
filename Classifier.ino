@@ -21,7 +21,7 @@
 #include <tensorflow/lite/micro/micro_interpreter.h>
 #include <tensorflow/lite/schema/schema_generated.h>
 #include <tensorflow/lite/version.h>
-
+// Change model here down-below 
 #include "model94.286_postures_5gestures.h"
 
 //const float accelerationThreshold = 205; // threshold ความสูง
